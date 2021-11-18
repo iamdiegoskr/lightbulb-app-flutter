@@ -1,5 +1,7 @@
 # bombillo_app
 
+![](https://i.imgur.com/OcgrL1y.png)
+
 A new Flutter project.
 
 ## Getting Started
